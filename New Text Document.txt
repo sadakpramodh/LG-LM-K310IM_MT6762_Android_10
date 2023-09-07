@@ -1,0 +1,82 @@
+
+READ BACK Authenticating... OK
+Initializing usb... OK
+Waiting for device... COM33
+Bypassing authentication... OK
+Analyzing preloader... preloader_v730_64.bin [EMI:9] [Internal]
+Handshaking... OK
+Reading hardware info... OK
+  Hardware : MT6765 [Helio G25|G35|P35] 0766 8A00 CA00 0000
+  Security Config : SCB SLA DAA 
+  MEID : EDB509C38B83821A78EEF2C7ED4EAD02
+Sending Download-Agent... OK
+Syncing with target... OK
+Booting device... OK
+Syncing with DA... OK
+  Storage : EMMC - CID : 53030188.3233444C.D4795547.C377602C 
+  Vendor : Samsung - Name : SLD32G - Serial : 1613550713 - Rev : 85
+  Boot1 : 4 MiB - Boot2 : 4 MiB - RPMB : 4 MiB - User Area : 28.91 GiB 
+Reading partition info... OK [48]
+Reading device info... OK
+   Model Name : LM-K310IM
+   Product Name : LMK310IM
+   Manufacturer : LGE
+   Platform : MT6762
+   Android Version : 10
+   Security Patch : 2020-09-05
+   Display ID : QP1A.190711.020 release-keys
+   Build : 104
+   Build Date : Mon Oct 5 21:54:22 CST 2020
+Reading preloader [512 KiB] -> preloader.bin... OK
+Reading pgpt [32 KiB] -> pgpt.bin... OK
+Reading boot_para [1 MiB] -> boot_para.bin... OK
+Reading para [512 KiB] -> para.bin... OK
+Reading elabel [8 MiB] -> elabel.img... OK
+Reading journey_persist [48 MiB] -> journey_persist.img... OK
+Reading expdb [20 MiB] -> expdb.bin... OK
+Reading frp [1 MiB] -> frp.bin... OK
+Reading nvcfg [32 MiB] -> nvcfg.img... OK
+Reading nvdata [64 MiB] -> nvdata.img... OK
+Reading md_udc [22.6 MiB] -> md_udc.bin... OK
+Reading metadata [32 MiB] -> metadata.img... OK
+Reading protect1 [8 MiB] -> protect1.img... OK
+Reading protect2 [10.87 MiB] -> protect2.img... OK
+Reading seccfg [8 MiB] -> seccfg.bin... OK
+Reading persist [48 MiB] -> persist.img... OK
+Reading sec1 [2 MiB] -> sec1.bin... OK
+Reading proinfo [3 MiB] -> proinfo.bin... OK
+Reading misc2 [3 MiB] -> misc2.img... OK
+Reading nvram [64 MiB] -> nvram.img... OK
+Reading logo [8 MiB] -> logo.bin... OK
+Reading md1img_a [100 MiB] -> md1img_a.img... OK
+Reading spmfw_a [1 MiB] -> spmfw_a.img... OK
+Reading scp_a [1 MiB] -> scp_a.img... OK
+Reading sspm_a [1 MiB] -> sspm_a.img... OK
+Reading gz_a [16 MiB] -> gz_a.img... OK
+Reading lk_a [1 MiB] -> lk_a.img... OK
+Reading boot_a [32 MiB] -> boot_a.img... OK
+Reading dtbo_a [8 MiB] -> dtbo_a.img... OK
+Reading tee_a [5 MiB] -> tee_a.img... OK
+Reading vbmeta_a [8 MiB] -> vbmeta_a.img... OK
+Reading vbmeta_system_a [8 MiB] -> vbmeta_system_a.img... OK
+Reading vbmeta_vendor_a [11 MiB] -> vbmeta_vendor_a.img... OK
+Reading md1img_b [100 MiB] -> md1img_b.img... OK
+Reading spmfw_b [1 MiB] -> spmfw_b.img... OK
+Reading scp_b [1 MiB] -> scp_b.img... OK
+Reading sspm_b [1 MiB] -> sspm_b.img... OK
+Reading gz_b [16 MiB] -> gz_b.img... OK
+Reading lk_b [1 MiB] -> lk_b.img... OK
+Reading boot_b [32 MiB] -> boot_b.img... OK
+Reading dtbo_b [8 MiB] -> dtbo_b.img... OK
+Reading tee_b [5 MiB] -> tee_b.img... OK
+Reading mpt [11 MiB] -> mpt.img... OK
+Reading super [8.29 GiB] -> super.img... OK
+Reading vbmeta_b [8 MiB] -> vbmeta_b.img... OK
+Reading vbmeta_system_b [8 MiB] -> vbmeta_system_b.img... OK
+Reading vbmeta_vendor_b [12 MiB] -> vbmeta_vendor_b.img... OK
+Reading userdata [19.79 GiB] -> userdata.img... OK
+Reading otp [43 MiB] -> otp.img... OK
+Reading flashinfo [16 MiB] -> flashinfo.img... OK
+
+UNLOCKTOOL 2022.02.21.0
+Elapsed time : 8 minutes 51 seconds
